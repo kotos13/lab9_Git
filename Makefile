@@ -1,4 +1,4 @@
-#  Makefile for QEMU.
+#      Makefile for QEMU.
 
 # Always point to the root of the build tree (needs GNU make).
 BUILD_DIR=$(CURDIR)
